@@ -1,7 +1,7 @@
 # Web-design-challenge
 
 
-Tools: Html, CSS, Bootstraps
+Tools: Html, CSS, Bootstrap
 
 
 For this project I am creating a dashboard that will help the user compare data sets of a weather form different parts of the world.
