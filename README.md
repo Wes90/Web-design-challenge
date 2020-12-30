@@ -21,7 +21,7 @@ The Data section contains a table of the entire data that has been analyzed. Thi
 Also has the navigation bar with the "Latitude" home button.
 
 https://github.com/Wes90/Web-design-challenge/blob/main/Resources/assets/images/landing.html
-
+http://127.0.0.1:5500/Resources/assets/images/landing.html
 
 
 
