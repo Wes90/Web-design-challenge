@@ -20,7 +20,7 @@ Data page:
 The Data section contains a table of the entire data that has been analyzed. This is very useful if the user wants to find the exact data from each city in the analysis.
 Also has the navigation bar with the "Latitude" home button.
 
-Link to web page: https://wes90.github.io/Web-design-challenge/
+Link to web page: https://wes90.github.io/Web-design-challenge/Resources/assets/images/landing.html
 
 
 
